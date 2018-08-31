@@ -1,7 +1,7 @@
 {
   "name": "vue-template-mirror",
   "version": "1.0.0",
-  "description": "这是一个vue的脚手架项目，其中包含着当前最新得脚手架配置方式，技术栈包括vue+vuex+vue-router+stylus+axios",
+  "description": "这是一个vue的脚手架项目，其中包含着当前最新的脚手架配置方式，技术栈包括vue+vuex+vue-router+stylus+axios",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
